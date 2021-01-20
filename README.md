@@ -1,6 +1,9 @@
 # git-windows-minimal
 A minimal git distribution for Windows
 
+## Project Status
+**This project is no longer maintained. Please install Github Desktop for Windows.**
+
 ## Details
 `git-windows-minimal` includes all git related commands. But it does not come with terminal emulator.
 
